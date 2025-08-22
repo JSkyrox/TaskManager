@@ -11,7 +11,6 @@ Permite a los usuarios crear proyectos, asignar tareas y administrarlas con un s
 - **SQL Server** como base de datos
 - **Swagger/OpenAPI** para documentación y pruebas de la API
 - **GitHub** para control de versiones
-- (Opcional) **Blazor/React** como frontend
 
 ---
 
